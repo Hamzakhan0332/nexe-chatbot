@@ -21,3 +21,7 @@ It's designed to be clean, fast, and easy to use—without any complicated setup
 *Note: Make sure `logo.png` and `favicon.png` stay in the same folder so the branding shows up properly.*
 
 Feel free to tweak the code, change the styles, and make it your own. Enjoy! 🚀
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
