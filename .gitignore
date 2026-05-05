@@ -1,0 +1,17 @@
+# IDEs and editors
+.vs/
+.vscode/
+*.swp
+*.swo
+
+# Sensitive files
+test_key.js
+
+# Local environment files
+.env
+.env.local
+
+# OS generated files
+Thumbs.db
+desktop.ini
+.DS_Store
